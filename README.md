@@ -1,7 +1,7 @@
 # Rust Language Restfull News API
 
 
-###  <span style="color: orange; margin-right: 20px"> Please read: </span> Of course, I have not implemented all the functions such as paging, ... but in the source code you can find place holders for this purpose.> This is just a demo project designed to interview only. 
+###  <span style="color: orange; margin-right: 20px"> Please read: </span> Of course, I have not implemented all the functions such as paging, ... but in the source code you can find place holders for this purpose. This is just a demo project designed to interview only. 
 
 <br><br>
 
