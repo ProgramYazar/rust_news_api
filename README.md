@@ -21,6 +21,8 @@
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
 ```
 
+* Get an api key from GNEWS developer portal.
+
 
 ## Run Project
 
