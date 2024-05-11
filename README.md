@@ -58,3 +58,8 @@ Ofcouse, I didnt implement all functions like paging, ... but in source code you
 This is only demo. 
 
 
+## todo
+* add an dotenv file for configuration
+* add comments for functions
+* implement all functions
+* create an uml or flowchart for presentation

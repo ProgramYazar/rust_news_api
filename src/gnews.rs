@@ -25,6 +25,9 @@ pub struct Article {
     pub source: Source,
 }
 
+
+
+
 pub enum SearchArea {
     Title,
     Description,
